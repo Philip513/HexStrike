@@ -181,7 +181,6 @@ python3 hexstrike_mcp.py --server http://127.0.0.1:8888 --debug
 
 | 提供商 | 推荐模型 | 适用场景 | 费用 |
 |--------|---------|---------|------|
-| Ollama | `qwen3.6:35b` | 内网免费模型，适合日常测试 | 免费 |
 | 深度求索 | `deepseek-v4-pro` | 工具调用稳定、上下文长 | 付费 |
 | Xiaomi MiMo | `mimo-v2.5-pro` | 中文报告输出质量好 | 付费 |
 
